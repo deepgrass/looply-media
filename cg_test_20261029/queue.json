@@ -1,0 +1,50 @@
+[
+ {
+  "at": "2026-10-29T18:00",
+  "type": "cg",
+  "file": "cg_20261029_town.mp4",
+  "tag": "cg_test",
+  "cover_ms": 4000,
+  "notes": "CG slow-change test 1/5 (town); answer=the pale blue house turned yellow; frac=0.0343; intro=the plant in the corner grew taller"
+ },
+ {
+  "at": "2026-10-30T18:00",
+  "type": "cg",
+  "file": "cg_20261030_harbor.mp4",
+  "tag": "cg_test",
+  "cover_ms": 4000,
+  "notes": "CG slow-change test 2/5 (harbor); answer=the turquoise house turned pink; frac=0.022; intro=the pale blue house turned yellow"
+ },
+ {
+  "at": "2026-10-31T18:00",
+  "type": "cg",
+  "file": "cg_20261031_room.mp4",
+  "tag": "cg_test",
+  "cover_ms": 4000,
+  "notes": "CG slow-change test 3/5 (room); answer=the teal sofa turned coral; frac=0.0466; intro=the turquoise house turned pink"
+ },
+ {
+  "at": "2026-11-01T18:00",
+  "type": "cg",
+  "file": "cg_20261101_farm.mp4",
+  "tag": "cg_test",
+  "cover_ms": 4000,
+  "notes": "CG slow-change test 4/5 (farm); answer=the white silo turned green; frac=0.0239; intro=the teal sofa turned coral"
+ },
+ {
+  "at": "2026-11-02T18:00",
+  "type": "cg",
+  "file": "cg_20261102_town.mp4",
+  "tag": "cg_test",
+  "cover_ms": 4000,
+  "notes": "CG slow-change test 5/5 (town); answer=the pink house turned cream; frac=0.0206; intro=the white silo turned green"
+ },
+ {
+  "at": "2026-11-03T18:00",
+  "type": "answer",
+  "file": "cg_20261103_answer.mp4",
+  "tag": "cg_test_answer",
+  "cover_ms": 500,
+  "notes": "CG test closing answer-only short; answer=the pink house turned cream"
+ }
+]
